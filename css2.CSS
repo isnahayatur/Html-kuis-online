@@ -1,0 +1,105 @@
+#header{
+background-color:#FFFFFF;
+padding:3px inherit;
+margin:0px 0px 30px 0px;
+border:solid 5px #000;
+}
+
+#header h2{
+float:left;
+background-color:#FFFFFF;
+border-right:solid 4px #000;
+margin:15px 6px 3px 15px;
+padding:10px 10px 10px 10px;
+width:200px;
+}
+
+#header marquee{
+width:970px;
+height:30px;
+margin:15px 0px 15px 10px;
+padding:10px 30px 0px 0px;
+color:#000;
+font-family:Rockwell;
+}
+
+.transparent{
+ background:rgba(2, 2, 2, 0.5);
+ width: 40%;
+ height:inherit;
+ padding:10px;
+ margin:30px 0px 30px 230px;
+ color:#fff;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ float:left;
+}
+
+.transparent h1{
+ margin:27px 20px 10px 30px;}
+ 
+ .transparent h2{
+ font-size:20px;
+ margin:0px 20px 30px 45px;
+ padding:0px 15px 10px 20px;}
+ 
+ 
+ .transparent h3{
+ margin:50px 70px 40px 75px;
+}
+
+ .transparent p{
+ font-size:30px;
+}
+
+#demo{
+background-color:#FFFFFF;
+height:40px;
+font-size:26px;
+width:300px;
+float:right;
+margin:70px 100px 0px 120px;
+text-align:center;
+padding:10px;}
+
+.submit input{
+font-size:24px;
+height:50px;
+background-color:#00CCFF;
+margin:30px 100px 100px 180px;}
+
+#gif img{
+margin:20px 90px 0px 100px;
+width:320px;
+float:right;}
+
+#tombol input{
+font-size:24px;
+height:50px;
+background-color:#00CCFF;
+margin: 10px 0px 0px 20px}
+
+#footer{
+clear:left;
+}
+
+#footer p{
+margin:10px 20px 10px 0px;
+}
+
+#footer h4{
+margin:0px 0px 10px 0px;
+}
+
+#footer a{
+text-decoration:none;
+list-style:none;
+color:#0fffae;
+}
+
+#footer a:hover{
+font-size:120%;
+color:#fff;
+font-weight:800;
+}
+
+
